@@ -1,0 +1,10 @@
+.venv/
+models/
+bin/
+runs/
+.env
+.ready
+config.json
+__pycache__/
+.DS_Store
+*.zip
